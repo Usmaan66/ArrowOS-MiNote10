@@ -37,8 +37,7 @@ Working features include:
 - SafetyNet (passes by default)
 
 ## 📦 Downloads
-> 📥 [Latest Build]([https://your-download-link.com](https://drive.google.com/file/d/1_KL1chDxdOorAJNGj4J9zKo5f7UR4_9-/view?usp=sharing))  
-> 📅 Build Date: DD-MM-YYYY  
+> 📥 [Latest Build](https://drive.google.com/file/d/1_KL1chDxdOorAJNGj4J9zKo5f7UR4_9-/view?usp=sharing)
 > 📱 Device Codename: sweet / sweetin
 
 ## ⚙️ Installation
