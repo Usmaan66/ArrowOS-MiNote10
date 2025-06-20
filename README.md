@@ -25,7 +25,7 @@ ArrowOS aims to deliver a near-stock experience with just the right amount of us
 ## 🧪 Status
 > **Build Status:** Stable  
 > **Device:** Redmi Note 10 Pro / Pro Max (sweet/sweetin)  
-> **Maintainer:** [Your Name / GitHub Handle]  
+> **Maintainer:** Usmaan 
 
 Working features include:
 - Wi-Fi, Bluetooth, Mobile Data
